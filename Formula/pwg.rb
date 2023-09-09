@@ -1,4 +1,4 @@
-class Pwg < Formula
+class pwg < Formula
 
   desc "PWG is a random 12 character long password generator"
   url "https://github.com/drew-anello/random-pw-generator/releases/download/v1.0.0/pwg-v1.0.0.tar.gz"
