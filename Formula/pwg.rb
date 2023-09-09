@@ -14,3 +14,4 @@ class Pwg < Formula
     assert_match "Version #{version}", shell_output("#{bin}/pwg version")
   end
 end
+
